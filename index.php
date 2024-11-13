@@ -1,8 +1,32 @@
-<?php
+<!DOCTYPE html>
+<html lang="en">
 
-require "resource/views/component/header.php";
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <meta name="description" content="" />
+  <meta name="author" content="" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="icon" type="image/png" href="resource/img/LOGO HMTIF (1).png" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet" />
+  <!-- In your <head> -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
 
-?>
+  <!-- Before closing </body> -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+  <title>HMTIF - UNPAS</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+
+  <!-- Additional CSS Files -->
+  <link rel="stylesheet" href="resource/css/fontawesome.css" />
+  <link rel="stylesheet" href="resource/css/templatemo-digimedia-v3.css" />
+  <link rel="stylesheet" href="resource/css/animated.css" />
+  <link rel="stylesheet" href="resource/css/owl.css" />
+</head>
 
 <body>
 
@@ -14,14 +38,14 @@ require "resource/views/component/header.php";
           <nav class="main-nav">
             <a href="" class="logo d-flex align-items-center justify-content-center mt-3">
               <!-- Logo HMTIF -->
-              <img src="assets/img/LOGO HMTIF.png" alt="Logo HMTIF" class="me-3" style="max-height: 50px" />
-              <img src="assets/img/LOGO HMTIF.png" alt="Logo HMTIF" style="max-height: 50px" />
+              <img src="resource/img/LOGO HMTIF.png" alt="Logo HMTIF" class="me-3" style="max-height: 50px" />
+              <img src="resource/img/logo harmoni.png" alt="Logo HMTIF" style="max-height: 50px" />
             </a>
             <!-- ***** Logo End ***** -->
             <!-- ***** Menu Start ***** -->
             <ul class="nav">
-              <li class="scroll-to-section"><a href="struktur.php">Struktur</a></li>
-              <li class="scroll-to-section"><a href="divisi.php">Divisi</a></li>
+              <li class="scroll-to-section"><a href="resource/views/struktur.php">Struktur</a></li>
+              <li class="scroll-to-section"><a href="resource/views/divisi.php">Divisi</a></li>
               <li class="scroll-to-section"><a href="kegiatan.php">Kegiatan</a></li>
               <li class="scroll-to-section">
                 <div class="border-first-button"><a href="#contact">Hubungi Kami</a></div>
@@ -49,7 +73,7 @@ require "resource/views/component/header.php";
                   <div class="col-lg-12">
                     <h6 class="text-custom" style="color: #007a3d">PERIODE 2024/2025</h6>
                     <h2>Himpunan Mahasiswa Teknik Informatika</h2>
-                    <p>This template is brought to you by TemplateMo website. Feel free to use this for a commercial purpose. You are not allowed to redistribute the template ZIP file on any other template website. Thank you.</p>
+                    <p>Selamat datang di website Himpunan Mahasiswa Teknik Informatika Universitas Pasundan.</p>
                   </div>
                   <div class="col-lg-12">
                     <div class="border-first-button scroll-to-section">
@@ -77,7 +101,7 @@ require "resource/views/component/header.php";
           <div class="row">
             <div class="col-lg-6">
               <div class="right-image wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s">
-                <img src="assets/img/LOGO HMTIF.png" alt="HMTIF Logo" class="img-fluid" />
+                <img src="assets/img/logo harmoni.png" alt="HMTIF Logo" class="img-fluid" />
               </div>
             </div>
             <div class="col-lg-6 align-self-center">
