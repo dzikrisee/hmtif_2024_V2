@@ -178,7 +178,7 @@
                         <div class="row">
                             <div class="col-lg-12">
                                 <h6 class="text-custom" style="color: #007a3d">KABINET HARMONI</h6>
-                                <h2>BPH & DIVISI HMTIF UNPAS</h2>
+                                <h2>BADAN PENGURUS HARIAN HMTIF-UNPAS</h2>
                                 <p>This template is brought to you by TemplateMo website. Feel free to use this for a commercial purpose. You are not allowed to redistribute the template ZIP file on any other template website. Thank you.</p>
                             </div>
                         </div>
