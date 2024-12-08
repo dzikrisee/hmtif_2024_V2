@@ -15,6 +15,8 @@
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
 
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+
     <!-- Bootstrap CSS from CDN -->
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet" />
 
@@ -178,8 +180,8 @@
                         <div class="row">
                             <div class="col-lg-12">
                                 <h6 class="text-custom" style="color: #007a3d">KABINET HARMONI</h6>
-                                <h2>BPH & DIVISI HMTIF UNPAS</h2>
-                                <p>This template is brought to you by TemplateMo website. Feel free to use this for a commercial purpose. You are not allowed to redistribute the template ZIP file on any other template website. Thank you.</p>
+                                <h2>BPH HMTIF UNPAS PERIODE 2024/2025</h2>
+                                <!-- <p>This template is brought to you by TemplateMo website. Feel free to use this for a commercial purpose. You are not allowed to redistribute the template ZIP file on any other template website. Thank you.</p> -->
                             </div>
                         </div>
                     </div>
@@ -189,14 +191,8 @@
         </div>
     </div>
 
-    <section class="wrapper">
+    <!-- <section class="wrapper">
         <div class="container">
-            <div class="row">
-                <div class="col text-center mb-5">
-                    <h1 class="display-4 font-weight-bolder">Bootstrap 4 Cards With Background Image</h1>
-                    <p class="lead">Lorem ipsum dolor sit amet at enim hac integer volutpat maecenas pulvinar. </p>
-                </div>
-            </div>
             <div class="row">
                 <div class="col-sm-12 col-md-6 col-lg-4 mb-4">
                     <div class="card text-dark card-has-bg click-col" style="background-image:url('../img/BPH-Kahim.png');">
@@ -325,6 +321,69 @@
 
             </div>
 
+        </div>
+    </section> -->
+
+    <section class="py-6">
+        <div class="container">
+            <div class="row">
+                <div class="col-xxl-4 col-xl-6 col-lg-12">
+                    <div class="card mb-4 mb-xl-0 card-hover border">
+                        <a href="#!">
+                            <img src="../img/BPH-Kahim.png" alt="webinar-1" class="img-fluid w-100 rounded-top-3">
+                        </a>
+                        <div class="card-body">
+                            <h3 class="mb-4 text-truncate">
+                                <a href="#!" class="text-inherit">Ketua UMUM HMTIF</a>
+                            </h3>
+                            <div class="mb-4">
+                                <div class="mb-3 lh-1">
+                                    <span class="me-1">
+                                        <i class="bi bi-calendar-check"></i>
+                                    </span>
+                                    <span>Moch. Nizar Al Faltan</span>
+                                </div>
+                                <div class="lh-1">
+                                    <span class="align-text-top me-1">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="currentColor" class="bi bi-clock" viewBox="0 0 16 16">
+                                            <path d="M8 3.5a.5.5 0 0 0-1 0V9a.5.5 0 0 0 .252.434l3.5 2a.5.5 0 0 0 .496-.868L8 8.71V3.5z" />
+                                            <path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16zm7-8A7 7 0 1 1 1 8a7 7 0 0 1 14 0z" />
+                                        </svg> </span>
+                                    <span>212040078</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xxl-4 col-xl-6 col-lg-12">
+                    <div class="card mb-4 mb-xl-0 card-hover border">
+                        <a href="#!">
+                            <img src="../img/BPH-Kahim.png" alt="webinar-1" class="img-fluid w-100 rounded-top-3">
+                        </a>
+                        <div class="card-body">
+                            <h3 class="mb-4 text-truncate">
+                                <a href="#!" class="text-inherit">Education Edition Deployment And Set Up</a>
+                            </h3>
+                            <div class="mb-4">
+                                <div class="mb-3 lh-1">
+                                    <span class="me-1">
+                                        <i class="bi bi-calendar-check"></i>
+                                    </span>
+                                    <span>Thu, November 10, 2023</span>
+                                </div>
+                                <div class="lh-1">
+                                    <span class="align-text-top me-1">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="currentColor" class="bi bi-clock" viewBox="0 0 16 16">
+                                            <path d="M8 3.5a.5.5 0 0 0-1 0V9a.5.5 0 0 0 .252.434l3.5 2a.5.5 0 0 0 .496-.868L8 8.71V3.5z" />
+                                            <path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16zm7-8A7 7 0 1 1 1 8a7 7 0 0 1 14 0z" />
+                                        </svg> </span>
+                                    <span>6:00 PM – 8:00 PM GMT</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </section>
 

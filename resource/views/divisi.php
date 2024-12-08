@@ -189,20 +189,20 @@
         </div>
     </div>
 
-    <div class="card biro-card">
+    <!-- <div class="card biro-card">
         <div class="card-body text-center">
-            <!-- Logo -->
+         
             <img src="../img/LOGO DIVISI KOMINFO NOBG.png" alt="Logo" class="logo mb-4" style="width: 100px; height: 100px;">
 
-            <!-- Judul -->
+          
             <h2 class="title mb-3">Biro Dedikasi Masyarakat</h2>
 
-            <!-- Deskripsi -->
+         
             <p class="description mb-5">
                 Hai, kami adalah Biro Dedikasi Masyarakat yang bertugas untuk melakukan analisis kebutuhan masyarakat sekitar Telkom University dan masyarakat Sistem Informasi di bidang sosial dan merealisasikan dalam program kerja pengabdian masyarakat
             </p>
 
-            <!-- Stats -->
+          
             <div class="stats-container">
                 <div class="row">
                     <div class="col-md-4">
@@ -220,7 +220,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
 
     <div class="main-banner wow fadeIn z-50 mt-0" id="top" data-wow-duration="1s" data-wow-delay="0.5s">
@@ -236,8 +236,8 @@
                         <div class="row">
                             <div class="col-lg-12">
                                 <h6 class="text-custom" style="color: #007a3d">KABINET HARMONI</h6>
-                                <h2>BPH & DIVISI HMTIF UNPAS</h2>
-                                <p>This template is brought to you by TemplateMo website. Feel free to use this for a commercial purpose. You are not allowed to redistribute the template ZIP file on any other template website. Thank you.</p>
+                                <h2>DIVISI HMTIF-UNPAS 2024/2025</h2>
+                                <!-- <p>This template is brought to you by TemplateMo website. Feel free to use this for a commercial purpose. You are not allowed to redistribute the template ZIP file on any other template website. Thank you.</p> -->
                             </div>
                         </div>
                     </div>
@@ -247,121 +247,11 @@
         </div>
     </div>
 
-    <div id="portfolio" class="our-portfolio section">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-5">
-                    <div class="section-heading wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
 
-                        <h4>BADAN PENGURUS HARIAN <em>PERIODE 2024/2025</em></h4>
-                        <div class="border-first-button scroll-to-section mb-3">
-                            <a href="#contact">Detail</a>
-                        </div>
-                        <div class="line-dec"></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="container-fluid wow fadeIn" data-wow-duration="1s" data-wow-delay="0.7s">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="loop owl-carousel">
-                        <div class="item">
-                            <a href="#">
-                                <div class="portfolio-item">
-                                    <div class="thumb">
-                                        <img src="../img/BPH-Kahim.png" alt="" />
-                                    </div>
-                                    <div class="down-content">
-                                        <h4>KETUA UMUM HMTIF</h4>
-                                        <span>Moch. Nizar Al Faltan</span>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="item">
-                            <a href="#">
-                                <div class="portfolio-item">
-                                    <div class="thumb">
-                                        <img src="../img/BPH-Sekjend.png" alt="" />
-                                    </div>
-                                    <div class="down-content">
-                                        <h4>SEKRETARIS JENDRAL</h4>
-                                        <span>Moch Riya Putra Suryadi</span>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-
-                        <div class="item">
-                            <a href="#">
-                                <div class="portfolio-item">
-                                    <div class="thumb">
-                                        <img src="../img/BPH-Bendum@3x.png" alt="" />
-                                    </div>
-                                    <div class="down-content">
-                                        <h4>BENDAHARA UMUM</h4>
-                                        <span>Dea Abeliya Casmita</span>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="item">
-                            <a href="#">
-                                <div class="portfolio-item">
-                                    <div class="thumb">
-                                        <img src="../img/BPH-Wabendum.png" alt="" />
-                                    </div>
-                                    <div class="down-content">
-                                        <h4>WAKIL BENDAHARA UMUM</h4>
-                                        <span>Dera Triyadi Fatimah</span>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="item">
-                            <a href="#">
-                                <div class="portfolio-item">
-                                    <div class="thumb">
-                                        <img src="../img/BPH-Sekum.png" alt="" />
-                                    </div>
-                                    <div class="down-content">
-                                        <h4>SEKRETARIS UMUM</h4>
-                                        <span>Nabila Putri Aisyah Insirawati</span>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="item">
-                            <a href="#">
-                                <div class="portfolio-item">
-                                    <div class="thumb">
-                                        <img src="../img/BPH-Wasekum.png" alt="" />
-                                    </div>
-                                    <div class="down-content">
-                                        <h4>WAKIL SEKRETARIS UMUM</h4>
-                                        <span>Ilona Aqila Zahra</span>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-
-
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
 
     <div id="services" class="services section">
         <div class="container">
             <div class="row">
-                <div class="col-lg-12">
-                    <div class="section-heading wow fadeInDown" data-wow-duration="1s" data-wow-delay="0.5s">
-                        <h4>DIVISI HMTIF <span class="text-custom" style="color: #007a3d">PERIODE 2024/2025</span></h4>
-                        <div class="line-dec" style="color: #007a3d"></div>
-                    </div>
-                </div>
                 <div class="col-lg-12">
                     <div class="naccs">
                         <div class="grid">
@@ -441,17 +331,16 @@
                                                         <div class="col-lg-6 align-self-center">
                                                             <div class="left-text">
                                                                 <h4>Divisi Kominfo</h4>
-                                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sedr do eiusmod deis tempor incididunt ut labore et dolore kengan darwin doerski token. dover lipsum lorem and the others.</p>
-                                                                <div class="ticks-list">
+                                                                <p>Divisi Komunikasi dan Informasi merupakan salah satu divisi yang ada di kepengurusan HMTIF-UNPAS Periode 2024/2025 Berfungsi untuk memberikan informasi baik internal maupun eksternal dan sebagai media promosi serta mendapatkan umpan balik mahasiswa di lingkungan Teknik informatika UNPAS.</p>
+                                                                <!-- <div class="ticks-list">
                                                                     <span><i class="fa fa-check"></i> Optimized Template</span> <span><i class="fa fa-check"></i> Data Info</span> <span><i class="fa fa-check"></i> SEO Analysis</span>
                                                                     <span><i class="fa fa-check"></i> Data Info</span> <span><i class="fa fa-check"></i> SEO Analysis</span> <span><i class="fa fa-check"></i> Optimized Template</span>
-                                                                </div>
-                                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sedr do eiusmod deis tempor incididunt.</p>
+                                                                </div> -->
                                                             </div>
                                                         </div>
                                                         <div class="col-lg-6 align-self-center">
                                                             <div class="right-image">
-                                                                <img src="../img/LOGO DIVISI KOMINFO NOBG.png" alt="" />
+                                                                <img src="../img/Kominfo.png" alt="" style="border-radius: 20px;" />
                                                             </div>
                                                         </div>
                                                     </div>
